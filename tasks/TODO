@@ -1,0 +1,18 @@
+Push to GitHub repo.
+
+Publish pip package.
+
+Test repo and package.
+
+[done] Build pip package.
+
+[done] Install and test pip package on local machine.
+[note] imports and runs thread via code file and interpreter.
+
+[done] Add several acceptable licenses to the repository.
+
+[done] Add clear licensing terms.
+[note] Copied all optional licenses to main license file.
+
+[done] Add clear copyright notification terms.
+
